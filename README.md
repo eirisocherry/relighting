@@ -26,7 +26,8 @@ Author: https://www.youtube.com/@shy_rikki (cuda plugins, glsl shaders, script a
 - CUDA effects work only on nvidia cards that support CUDA (you must use `Mercury GPU Acceleration (CUDA)` ):  
 <img width="269" height="112" alt="image" src="https://github.com/user-attachments/assets/193df02c-9453-4a81-9cbe-ecf60ed0278e" />
 
-- PW effects work only with PixelsWorld plugin installed  
+- PW effects work only with PixelsWorld plugin installed:  
+<img width="431" height="166" alt="image" src="https://github.com/user-attachments/assets/1d75dd79-2634-435a-be9a-c8fd567c70ec" />  
 
 ## Installation
 1. Download the tool: https://github.com/eirisocherry/relighting/releases  
