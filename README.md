@@ -58,6 +58,6 @@ EXR Depth: set the same value you set in `EXtractoR` effect
 6. Select `Depth Projection` depth layer and use `Project On Point` cursor to select where you want to project an object  
 7. Press `Project` and wait a bit... Done!  
 
-- 'Auto Orient' works only with EXR depth maps  
+- `Auto Orient` works only with EXR depth maps  
 - The script is heavy and may crash your After Effects, but don't worry!  
 It automatically saves your project before doing any actions, so even if your AE will crash, you will not lose any of your progress  
