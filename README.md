@@ -16,7 +16,7 @@ Author: https://www.youtube.com/@shy_rikki (cuda plugins, glsl shaders, script a
 - Unmult (removes black)
 
 ## Requirements
-- Depth Map and Camera Data  
+- EXR Depth Map and Camera Data  
 - Project must be set to `32 bit`:  
 <img width="361" height="145" alt="image" src="https://github.com/user-attachments/assets/b4909133-5e18-44e9-83cd-00cd61788b07" />
 
@@ -45,7 +45,7 @@ Author: https://www.youtube.com/@shy_rikki (cuda plugins, glsl shaders, script a
 CS2 & CSGO: https://www.youtube.com/watch?v=FWEqkaiXNM0  
 COD4: https://www.youtube.com/watch?v=ZKsAgvfdi4I  
 BO2: https://www.youtube.com/watch?v=6pkkpgb8VYY  
-3. Import a depth map, select it and create a setup by pressing `[+]` button  
+3. Import an exr depth map, select it and create a setup by pressing `[+]` button  
 It will also automatically set project to `32 bit` and expressions engine to `JavaScript`  
 If it didn't, do it manually, otherwise nothing will work  
 4. Adjust `Depth Settings`:    
