@@ -33,7 +33,7 @@ Author: https://www.youtube.com/@shy_rikki (cuda plugins, glsl shaders, script a
 1. Download the tool: https://github.com/eirisocherry/relighting/releases  
 2. Move `r-relighting` folder and `r-relighting.jsx` script to:  
 `C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Scripts\ScriptUI Panels`  
-3. Move `rikki` folder that contains plugins to:  
+3. Move `Rikki` folder that contains plugins to:  
    `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore`  
 4. Install PixelsWorld plugin: https://aescripts.com/pixelsworld/  (https://t.me/ancient_storage/162)  
 5. Restart After Effects  
