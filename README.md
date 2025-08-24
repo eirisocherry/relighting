@@ -62,7 +62,4 @@ EXR Depth: set the same value you set in `EXtractoR` effect
 ## Important Notes
 - The script is heavy and may crash your After Effects, but don't worry!  
 It automatically saves your project before doing any actions, so even if your AE will crash, you will not lose any of your progress  
-- `Auto Orient` works only with EXR depth maps  
-- CUDA is faster than PixelsWorld    
-- CUDA effects work properly only in FULL preview mode, while PixelsWorld effects work in any  
-CUDA clamp and unmult effects work fine in any preview modes tho  
+- CUDA is faster than PixelsWorld  
