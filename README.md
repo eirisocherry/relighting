@@ -1,5 +1,5 @@
 # Relighting
-An open source After Effects tool that allows you to quickly relight a scene  
+An After Effects tool that allows you to quickly relight a scene  
 Author: https://www.youtube.com/@shy_rikki  
 Report a bug: https://discord.gg/AAJxThhbBf  
 If you wish to donate ❤️: https://boosty.to/shy_rikki  
@@ -20,7 +20,7 @@ If you wish to donate ❤️: https://boosty.to/shy_rikki
 - Unmult (removes black)  
 
 ## Requirements
-- NVIDIA GPU that support CUDA  
+- NVIDIA GPU that supports CUDA  
 - EXR Depth Map  
 - Camera Data  
 - Normal Pass (Optional)  
