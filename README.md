@@ -79,8 +79,7 @@ EXR Depth Guide (10:49): https://youtu.be/NE5nAPHn_P4?list=PLiyMyFJsq2_VbQNn3nL4
   
 <img width="336" height="152" alt="Screenshot_4" src="https://github.com/user-attachments/assets/619dc92a-11f8-4010-b684-510ed7beab39" />  
   
-5.  
-a) Select `Depth Projection` depth layer and use `Project On Point` cursor to select where you want to project an object  
+5. a) Select `Depth Projection` depth layer and use `Project On Point` cursor to select where you want to project an object  
 b) Select something from the dropdowm menu, ex: `Point Advanced`  
 c) Press `Project` and wait a bit... Done!  
   
@@ -113,9 +112,11 @@ mvm_streams_aeExport_sun 1             // export sun
 2. Convert the layers using my `ftool-converter.bat`  
 Download: https://github.com/eirisocherry/ftools/blob/main/ftool-converter.bat  
 Guide: https://github.com/eirisocherry/ftools/tree/main  
-3. Import the layers, camera data and convert a depth: https://github.com/gmzorz/MVMAETools/blob/main/Support%20Files/Scripts/ScriptUI%20Panels/MVMTools.jsx  
-4.  
-a) Rename Normal Map to `Normal Pass 1`  
+3. a) Download: https://github.com/gmzorz/MVMAETools/blob/main/Support%20Files/Scripts/ScriptUI%20Panels/MVMTools.jsx  
+b) Move `MVMTools.jsx` script to:  
+`C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Scripts\ScriptUI Panels`  
+c) Import the layers, camera data and convert a depth  
+5. a) Rename Normal Map to `Normal Pass 1`  
 b) Apply `Normal Remap` effect to the `Normal Pass 1` layer  
 c) Copy the settings  
 ```
@@ -137,8 +138,7 @@ Normalize Output: `Checked`
   
 <img width="337" height="129" alt="image" src="https://github.com/user-attachments/assets/9f6993fd-d248-4986-8323-1dffca0aad65" />  
   
-7.  
-a) Select `Depth Projection` depth layer and use `Project On Point` cursor to select where you want to project an object  
+7. a) Select `Depth Projection` depth layer and use `Project On Point` cursor to select where you want to project an object  
 b) Select something from the dropdowm menu, ex: `Point Advanced`  
 c) Press `Project` and wait a bit... Done!  
   
