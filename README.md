@@ -59,7 +59,7 @@ What can meet the requirements?
 </details>
 
 <details>
-<summary> CS2 & CSGO </summary>
+<summary> CSGO & CS2 </summary>
 <br>
 
 1. Record the required layers: game, exr depth, camera  
