@@ -63,11 +63,11 @@ What can meet the requirements?
 <br>
 
 1. Record the required layers: game, exr depth, camera  
-CS2 Tutorials: https://github.com/eirisocherry/cs2-editing/wiki  
 CSGO Tutorials: https://www.youtube.com/watch?v=PtdO_I-fBRo&list=PLiyMyFJsq2_VbQNn3nL4sYAXbaIQRQsZH  
 EXR Depth Guide (10:49): https://youtu.be/NE5nAPHn_P4?list=PLiyMyFJsq2_VbQNn3nL4sYAXbaIQRQsZH&t=649  
-2. Import layers, camera data and setup an exr depth: https://www.youtube.com/watch?v=FWEqkaiXNM0  
-3. Select a depth map and create a setup by pressing `[+]` button  
+CS2 Tutorials: https://github.com/eirisocherry/cs2-editing/wiki  
+3. Import layers, camera data and setup an exr depth: https://www.youtube.com/watch?v=FWEqkaiXNM0  
+4. Select a depth map and create a setup by pressing `[+]` button  
 
 <img width="624" height="379" alt="image" src="https://github.com/user-attachments/assets/33a08da5-0bc1-4c15-8377-b5ffbe99de25" />  
 
