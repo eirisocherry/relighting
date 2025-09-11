@@ -102,7 +102,7 @@ Record the required layers
   
 ```
 mvm_output_directory "S:\Screens"      // output directory
-mvm_avidemo_fps 0                      // disables default avi recording
+mvm_avidemo_fps 0                      // disables default screen recording
 mvm_streams_fps 125                    // fps to record layers in
 mvm_streams_passes mvm_w mvm_wd mvm_wn // layers: game, depth, normal
 mvm_streams_depthFormat 2              // depth format: 2 - rainbow (more precise)
