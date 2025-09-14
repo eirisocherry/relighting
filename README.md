@@ -2,6 +2,7 @@
 An After Effects tool that allows you to quickly relight a scene  
 Author: https://www.youtube.com/@shy_rikki  
 Report a bug: https://discord.gg/AAJxThhbBf  
+Free AE project: https://t.me/works_by_rikki/68  
 If you wish to donate ❤️: https://boosty.to/shy_rikki  
 
 <img width="960" height="540" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1341d857-e10f-43ac-ad97-b7234c545be3" />  
