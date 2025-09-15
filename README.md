@@ -164,6 +164,10 @@ Blender Camera Exporter Script: https://github.com/sobotka/blender-addons-contri
 
 <img width="1919" height="727" alt="image" src="https://github.com/user-attachments/assets/2d23b7ab-d2bc-492f-97a8-83f460c021ba" />  
 
+Remember the scale value, it will be used for "Depth Far" parameter later:  
+
+<img width="351" height="524" alt="image" src="https://github.com/user-attachments/assets/d0c31105-1f7c-4e91-b870-3b1433822c39" />  
+
 2. Render the required layers:  
 a) Render settings:  
 <img width="415" height="223" alt="image" src="https://github.com/user-attachments/assets/a3cbe6d6-2ff3-41c1-a2e7-6bd48ffead6c" />
