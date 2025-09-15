@@ -8,9 +8,9 @@ If you wish to donate ❤️: https://boosty.to/shy_rikki
 <img width="960" height="540" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1341d857-e10f-43ac-ad97-b7234c545be3" />  
 
 ## Features
-- Point Light
-- Spot Light
-- Rect Light
+- Point Light  
+- Spot Light  
+- Rect Light  
 - Directional Light  
 - Rim Light  
 - Ambient Occlusion (edge shadows)  
@@ -21,6 +21,7 @@ If you wish to donate ❤️: https://boosty.to/shy_rikki
 - Unmult (removes black)  
 
 ## Requirements
+- After Effects 2019/2021-2025 (The tool doesn't work in AE 2020)  
 - NVIDIA GPU that supports CUDA  
 - EXR Depth Map  
 - Camera Data  
