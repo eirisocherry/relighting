@@ -98,6 +98,9 @@ c) Press `Project` and wait a bit... Done!
 <summary> COD4 </summary>
 <br>
 
+**[NOTE]**  
+**"Auto Orient" function and shadows are not going to work, because COD4's depth map is not 32-bit.**  
+
 1. Record the required layers  
 Tutorial by Politoo: https://www.youtube.com/watch?v=VjyNZsYzVWg  
 CODMVM: https://codmvm.com/  
