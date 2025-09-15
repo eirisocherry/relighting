@@ -155,6 +155,65 @@ c) Press `Project` and wait a bit... Done!
 
 
 
+<details>
+<summary> Blender </summary>
+<br>
+
+1. Export and import the camera to after effects: https://www.youtube.com/watch?v=V1ZpQJ2jZ8Q  
+Blender Camera Exporter Script: https://github.com/sobotka/blender-addons-contrib/blob/master/io_export_after_effects.py  
+
+<img width="1919" height="727" alt="image" src="https://github.com/user-attachments/assets/2d23b7ab-d2bc-492f-97a8-83f460c021ba" />  
+
+2. Render the required layers:  
+a) Render settings:  
+<img width="415" height="223" alt="image" src="https://github.com/user-attachments/assets/a3cbe6d6-2ff3-41c1-a2e7-6bd48ffead6c" />
+
+b) Color Managment settings (set to your liking):  
+<img width="415" height="544" alt="image" src="https://github.com/user-attachments/assets/a3944871-c22d-4c71-9791-7a16e5a6d121" />  
+
+c) Required Layers:  
+<img width="1091" height="663" alt="Screenshot_48" src="https://github.com/user-attachments/assets/b2670c89-9430-4f67-83b6-730f1e248ae3" />  
+
+3. Import the layers, setup them and rename as on the screenshots:  
+
+**Beauty**  
+OpenColorIO plugin: https://www.fnord.com/  
+
+<img width="1711" height="821" alt="image" src="https://github.com/user-attachments/assets/27fb13b4-a554-4295-96e1-a403bf33af45" />  
+  
+  
+**Normal Pass**  
+  
+<img width="1708" height="765" alt="image" src="https://github.com/user-attachments/assets/641a1067-b04f-49f2-9387-2f198cdce808" />  
+  
+  
+**Depth**  
+  
+<img width="821" height="147" alt="image" src="https://github.com/user-attachments/assets/f0dd21c8-3afa-415f-87ce-f41c3b6bae94" />  
+  
+<img width="701" height="530" alt="image" src="https://github.com/user-attachments/assets/dbacbf1a-dcd8-47cf-87f5-1711d9797c80" />  
+
+4. Select a depth map and create a setup by pressing `[+]` button  
+
+<img width="687" height="403" alt="image" src="https://github.com/user-attachments/assets/c525a637-67c5-4994-9877-aa4c4956b820" />  
+
+5. Adjust `Depth Settings`:  
+`Depth Black Is Near`: `checked` (yes, visually the depth is white, but because the depth's range is not 0-1, you need to check it)  
+`Depth Far`: `100` (because, when exporting the camera, scale was set to 100)  
+  
+<img width="510" height="125" alt="image" src="https://github.com/user-attachments/assets/b9fef017-7c5d-46a9-a4b5-8187aae10cbc" />  
+
+6. a) Select `Depth Projection` depth layer and use `Project On Point` cursor to select where you want to project an object  
+b) Select something from the dropdowm menu, ex: `Point Advanced`  
+c) Press `Project` and wait a bit... Done!  
+
+<img width="1315" height="806" alt="image" src="https://github.com/user-attachments/assets/f2eb303c-5e59-45a3-af5e-e0a0051997bd" />  
+  
+<img width="1130" height="952" alt="image" src="https://github.com/user-attachments/assets/822cd1bd-732c-4fc1-925c-bca2533e6fe1" />  
+
+<br>
+</details>
+
 ## Important Notes
 - The script is heavy and may crash your After Effects, but don't worry!  
 It automatically saves your project before doing any actions, so even if your AE will crash, you will not lose any of your progress  
