@@ -29,7 +29,7 @@ If you wish to donate ❤️: https://boosty.to/shy_rikki
 - Normal Pass (Optional)  
 
 What can meet the requirements?  
-**Games**: CS2, CSGO, COD4 (partially, cuz bad depth), BO2 (partially, cuz bad depth)  
+**Games**: CS2, CSGO, COD4 (partially, cuz bad depth)  
 **3D Software**: almost any (Blender, Cinema 4D, Unreal Engine 5 etc)  
 
 ## Installation
