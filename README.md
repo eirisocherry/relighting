@@ -218,6 +218,22 @@ c) Press `Project` and wait a bit... Done!
 <br>
 </details>
 
+
+
+<details>
+<summary> Unreal Engine 5 </summary>
+<br>
+
+1. Export UE camera as fbx and import it to Blender: https://www.youtube.com/watch?v=zcAIfq8WfNU  
+2. Export Blender camera and import it to After Effects (check the "Blender" category I wrote above)  
+
+I haven't tested this workflow yet, but, theoretically, it should work just fine.  
+
+<br>
+</details>
+
+
+
 ## Important Notes
 - The script is heavy and may crash your After Effects, but don't worry!  
 It automatically saves your project before doing any actions, so even if your AE will crash, you will not lose any of your progress  
