@@ -1,5 +1,6 @@
 # Relighting
 An After Effects tool that allows you to quickly relight a scene  
+Tutorial: https://www.youtube.com/watch?v=RzH9I8wUUOc  
 Author: https://www.youtube.com/@shy_rikki  
 Report a bug: https://discord.gg/AAJxThhbBf  
 Free AE project: https://t.me/works_by_rikki/68  
