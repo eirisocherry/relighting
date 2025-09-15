@@ -163,6 +163,11 @@ c) Press `Project` and wait a bit... Done!
 <summary> Blender </summary>
 <br>
 
+**[NOTE]**  
+**"Why would I use the relighting tool with 3d software?" You might ask.**  
+**The only benefit I see is quick object placement.**  
+**You can easily place the nulls and link images, overlays, flares to them.**  
+
 1. Export and import the camera to after effects: https://www.youtube.com/watch?v=V1ZpQJ2jZ8Q  
 Blender Camera Exporter Script: https://github.com/sobotka/blender-addons-contrib/blob/master/io_export_after_effects.py  
 
