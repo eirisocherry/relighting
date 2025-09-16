@@ -160,6 +160,20 @@ c) Press `Project` and wait a bit... Done!
 
 
 <details>
+<summary> ̷B̷O̷2̷</summary>
+<br>
+
+Sorry. The relighting tool doesn't work with Black Ops 2.  
+Why? Because its normal map is broken and depth has low precision.  
+
+I knew while recording the tutorial that the game had a normal map, but had no clue it was unusable. My bad.  
+
+<br>
+</details>
+
+
+
+<details>
 <summary> Blender </summary>
 <br>
 
@@ -232,6 +246,11 @@ c) Press `Project` and wait a bit... Done!
 <details>
 <summary> Unreal Engine 5 </summary>
 <br>
+
+**[NOTE]**  
+**"Why would I use the relighting tool with 3d software?" You might ask.**  
+**The only benefit I see is quick object placement.**  
+**You can easily place nulls and link anything to them: images, overlays, flares and more.**  
 
 1. Export UE camera as fbx and import it to Blender: https://www.youtube.com/watch?v=zcAIfq8WfNU  
 2. Export Blender camera and import it to After Effects (check the "Blender" category I wrote above)  
