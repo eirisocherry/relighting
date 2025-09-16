@@ -4287,6 +4287,8 @@
             return;
           }
           aoEffect.property("Normal Pass Normalized").setValue(normalPassLayer.index);
+          aoEffect.property("Depth Far").setValue(far);
+          aoEffect.property("Depth Black Is Near").setValue(blackIsNear);
 
         }
         addAOcuda();
